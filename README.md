@@ -1,7 +1,10 @@
 ## Web Hotel
-
+    UNTUK FILE WEB BERNAMA PROJECT DATABASE
+    DAN UNTUK DATABASE DARI WEB NYA BERNAMA hotel.sql
 ## Instalasi
-
+    untuk instalasi program web cukup yang bertipe project database
+    
+    untuk hotel.sql tidak perlu diikutkan
 ### Spesifikasi
 - PHP ^8.1
 - Database MySQL atau MariaDB
@@ -10,7 +13,7 @@
 ### Cara Install
 
 1. Clone atau download source code
-    - Para terminal, clone repo `git clone https://github.com/nipengg/WebHotel`
+    - Para terminal, clone repo `git clone https://github.com/RizaldiAMP/Web-dan-Database-Hotel`
     - Jika tidak menggunakan Git, silakan **Download Zip** dan *extract* pada direktori web server (misal: xampp/htdocs)
     - Jika menggunakan laragon silakan extract pada direktori laragon/www
 2. `cd WebHotel`
